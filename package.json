@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios-async-fetch-ts": "^1.0.4",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tests",
+  "version": "1.0.1",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
